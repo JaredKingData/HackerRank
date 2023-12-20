@@ -4,7 +4,7 @@ Created on Sat Dec 31 16:05:13 2022
 
 @author: 15414
 """
-
+# define Palendrome Index
 def palindromeIndex(s):
     # check if string is palindrome
     if s == s[::-1]:
